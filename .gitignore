@@ -1,21 +1,26 @@
+# IDE
 .idea/
+.vscode/
+
 # Python
 __pycache__/
 *.pyc
 
-# Model
+# Models
 *.pt
 
-# Data
+# Dataset
 dataset/
-dataset1/
 
-*.jpg
-*.png
-
-# YOLO output
+# YOLO outputs
 runs/
+
+# Training models
 models/
+
+# Videos
+*.mp4
+*.avi
+
 # OS
 .DS_Store
-demo
