@@ -1,3 +1,4 @@
+.idea/
 # Python
 __pycache__/
 *.pyc
@@ -8,7 +9,7 @@ __pycache__/
 # Data
 dataset/
 dataset1/
-*.mp4
+
 *.jpg
 *.png
 
