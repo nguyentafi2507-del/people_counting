@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model
+*.pt
+
+# Data
+dataset/
+dataset1/
+*.mp4
+*.jpg
+*.png
+
+# YOLO output
+runs/
+models/
+# OS
+.DS_Store
+demo
